@@ -1,3 +1,5 @@
+Final Project of IBM AI Engineering:
+
 By leveraging LangChain and an LLM, the bot will be able to read and understand the content of loaded PDF documents and provide accurate and relevant answers to user queries.
 
 Key components and techniques:
